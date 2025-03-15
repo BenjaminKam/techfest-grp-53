@@ -1,6 +1,6 @@
 # verifiai (techfest-grp-53)
 
-[Watch Our App Demo Here!]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=t1TZVptV5cI&t=2s))
+[Watch Our App Demo Here!]([https://www.youtube.com/watch?v=t1TZVptV5cI&t=2s])
 
 
 ## Inspiration
