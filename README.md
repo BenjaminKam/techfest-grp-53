@@ -2,6 +2,14 @@
 
 [Watch Our App Demo Here!](https://www.youtube.com/watch?v=t1TZVptV5cI&t=2s)
 
+## **Contributers:**
+| **Name**              | **Github Profile**                            | **Role**          |
+|-----------------------|-----------------------------------------------|-------------------|
+|   Adolphus            |[@ggeojyeo](https://github.com/ggeojyeo)       |   Backend         |
+|   Afreen              |[@afreenrafi](https://github.com/afreenrafi)   |   Backend         |
+|   Jia Wei             |[@maeganliew](https://github.com/maeganliew)   |   Frontend        |
+|   Benjamin            |[@BenjaminKam](https://github.com/BenjaminKam) |   Frontend        |
+
 
 ## Inspiration
 We’ve all seen wild claims online in which some make us laugh, others make us wonder, “Is this actually true?” In a world flooded with misinformation, we wanted to build a tool that helps cut through the noise and get to the truth. We wanted an all in one portal for both speech and image analysis.
